@@ -13,3 +13,7 @@ It will print out a String that says "(name), your sum is (sum)".
 All the user has to do to run this file is download it onto their system, open the file, and hit run, and the program will promptly ask for the user to enter their inputs.
 
 If the user would like to contribute to the program, they could add other prompts that ask the user to enter in input values that print out a certain String at the end.
+
+The License was selected due to its general nature and availability to the public. It allows the program to be completely free and open source.
+
+The Code of Conduct was selected because it serves a general purpose and can be used for many types of projects, rather than specific code.
